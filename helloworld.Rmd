@@ -1,8 +1,0 @@
----
-title: "rmarkdown"
-author: "arijitacharjya123"
-date: "05/05/2022"
-output: pdf_document
----
-
-## This is a markdown file
